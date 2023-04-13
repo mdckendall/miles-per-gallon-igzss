@@ -1,3 +1,3 @@
 miles=float(input())
 gallons=float(input())
-print(miles*gallons)
+print(miles/gallons)
