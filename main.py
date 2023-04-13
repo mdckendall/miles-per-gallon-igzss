@@ -1,3 +1,3 @@
-Millas = float(input("Miles: "))
-Galones = float(input("Gallons: "))
-print("Gallons used:",M*G)
+miles=float(input())
+gallons=float(input())
+print(miles*gallons)
